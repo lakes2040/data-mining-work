@@ -1,0 +1,22 @@
+# 贷款审批数据挖掘分析系统依赖包
+
+# 数据处理
+pandas>=1.5.0
+numpy>=1.21.0
+
+# 机器学习
+scikit-learn>=1.1.0
+mlxtend>=0.20.0
+
+# 可视化
+matplotlib>=3.5.0
+seaborn>=0.11.0
+networkx>=2.8.0
+
+# 其他工具
+openpyxl>=3.0.0
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# 可选：用于更好的性能（Python 3.14暂不支持）
+# numba>=0.56.0
